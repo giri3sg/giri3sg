@@ -1,4 +1,4 @@
-# 👋 WhoAmI: Evolved hydrogen
+# 👋 WhoAmI: Evolved quark
 # 👨‍💻 WhatIDo: Web development & Design
 # 🎓 WhatIsMyEdu: Masters in Distributed Software Systems
 # 🌌 WhatIGeek: cosmos, coffee, cooking, science
