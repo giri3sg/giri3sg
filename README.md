@@ -1,4 +1,4 @@
-# 👋 WhoAmI: Evolved quark
+# 👋 WhoAmI: Sentient collection of Quarks
 # 👨‍💻 WhatIDo: UI/UX Design & development
 # 🎓 Alma mater: TUDarmstadt - Masters in Distributed Software Systems
 # 🌌 WhatIGeek: cosmos, coffee, cooking, coding, physics, psychology, philosophy
